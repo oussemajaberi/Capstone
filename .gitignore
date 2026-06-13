@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs et fichiers temporaires
+*.log
+.DS_Store
+Thumbs.db
+
+# Modèles entraînés (pickles, etc.)
+*.pkl
+*.joblib
+
+# Variables d'environnement
+.env
+
+# Configuration locale Claude Code
+.claude/
